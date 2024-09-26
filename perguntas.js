@@ -1,23 +1,23 @@
 criaCartao(
-    'Marca de Carro',
-    'Qual a marca de carro mais conhecida?',
-    'Toyota'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'carro',
-    'Qual o carro mais  rapido?',
-    'Fiat Uno com escada'
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
-    'Comida',
-    'Qual e a comida mais conhecida?',
-    'Pizza'
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Doce',
-    'Qual o doce mais conhecido?',
-    'Brigadeiro'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
